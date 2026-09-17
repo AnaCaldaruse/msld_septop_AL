@@ -1,0 +1,1423 @@
+50529663
+     RDKit          3D
+
+ 44 47  0  0  1  0  0  0  0  0999 V2000
+    6.0577   -0.8731  -21.9858 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7821    0.0565  -22.7487 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0047   -4.8044  -17.2477 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8926   -4.3397  -18.2275 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0228    0.9529  -20.7534 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8187   -2.6897  -17.4071 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7222    1.8974  -21.5237 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1761   -0.4131  -20.9834 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9513   -3.9701  -16.8387 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6134    1.4363  -22.5322 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7044   -3.0478  -18.7679 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3498    3.9581  -19.1159 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -2.5258  -19.7993 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4584    5.5387  -21.2728 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6466    5.3436  -22.5666 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1686    3.9233  -19.4001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7637    4.1118  -20.8694 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4776    3.3857  -21.2920 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6840   -2.2513  -18.3448 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3094    3.6328  -20.3875 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1402    4.1341  -18.4647 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3732   -1.2275  -20.2090 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5748   -3.1776  -20.1852 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1453    3.9815  -22.5612 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0672   -4.3944  -15.9109 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2863    2.2975  -23.3311 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8268    4.2090  -18.1910 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1740   -1.9319  -22.1642 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4715   -0.2890  -23.5048 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1281   -5.7862  -16.8151 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7094   -4.9606  -18.5649 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3574    1.2901  -19.9724 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0112   -2.0475  -17.0875 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3817    6.1057  -21.4627 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8644    6.0525  -20.5027 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8068    6.0535  -22.5946 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2915    5.5038  -23.4432 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5285    2.8915  -19.2743 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9849    4.6262  -19.1775 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5862    3.7427  -21.4997 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4013    3.5401  -20.7958 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1254    4.3954  -17.4995 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2817    3.9998  -18.9596 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5090   -0.8260  -19.9058 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  8  1  0
+  2 10  1  0
+  3  4  2  0
+  3  9  1  0
+  4 11  1  0
+  5  7  1  0
+  5  8  2  0
+  6  9  2  0
+  6 19  1  0
+  7 10  2  0
+ 18  7  1  6
+  8 22  1  0
+  9 25  1  0
+ 10 26  1  0
+ 11 13  1  0
+ 11 19  2  0
+ 12 20  2  0
+ 12 21  1  0
+ 12 27  1  0
+ 13 22  1  0
+ 13 23  2  0
+ 14 15  1  0
+ 14 17  1  0
+ 15 24  1  0
+ 16 17  1  0
+ 16 27  1  0
+ 17 18  1  0
+ 18 20  1  0
+ 18 24  1  0
+  1 28  1  0
+  2 29  1  0
+  3 30  1  0
+  4 31  1  0
+  5 32  1  0
+  6 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 16 39  1  0
+ 17 40  1  6
+ 20 41  1  0
+ 21 42  1  0
+ 21 43  1  0
+ 22 44  1  0
+M  CHG  1  20   1
+M  END
+>  <OMEGA_C>  (1) 
+BtnBQCKDX7/q4q/BzgbZQAhMZz1W/bXBgExAQKO9mcBd+4nBoSB5QPTeisD+0ZHBq7qgQBLwcz/g
+BqbBZ8roP2UjLMCnQYvBIRy3QATe8j+eMKzBw6KlQIqG074Z3qfBj8X5PyMWfsCatYbBDqHTQDbX
+tz/lQbTBTRVtQMAOQ8CVJJbBSjGLQLJRfUB07ZjBloeTQJemIcADZZ7BlavOQLY8sUCjLqrBMbG0
+QJT+qkBliLTB0WTlQM4Xe0CBM5vB5m/YQB6Ug0Ch9KbBJkivQLOvWEAIVqrBSsYrQLQVEMAkwpLB
+WuaJQPJ/aECGGaPB2/lIQGJKhECst5PB9PCLQE0fnb8NrKHB82SyQPhdS8BXe6HBs6akQJbQfkBc
+fbTBXZqIP96ejMD6kn7BVSnpQBkKE0AUprrBHnW6QNCvhkA0h5HBIpHFQFBI979UULHBwhbvQO34
+k77bCbzBMjNIQLcoucBMhYbBcrOWQPa8nsDghJTB2G+LQBEipT9ox5/BU3CBP7sKA8A1s4jBojbs
+QCdiw0Cys6vBCam7QHKuwUCGBaTBtNGZQD22wUCqwbTBC1TJQLoesEC6i7vBLOnwQMEOOUCqMZrB
+f4T/QHwJlECCa5nBzcHyQNyIb0B0/6vBPK5ZQFuQYkDJXabBCwdIQPWmjEAP/4vB3AcSQFv9f0A4
+rZfBYJNgQCByU7/7Pp/BJ4bDQNEnWr86eK/BAxPZQNDToD107LXBMmnkP6kDMcAiXorBF7EnQI/3
+EcAwcZLBDOKgQNgcej/R9aXBLcJEQLVbmsByoYrB18e1QDr69T8NeKzBpCmnQK7Xyb7FeafBzSsB
+QO6ygcAUYobBLgbSQEKFuj9RkrTBNV5rQMQJRsCIYZbBCWyKQN9ggEBSKpnB9BqTQDZ1I8BthZ7B
+5lnTQCv3r0DSfarBcLW8QKK3qUARRLXBsPrjQBJZeUAk9prBREPZQHYygkAn3abBffquQOCkWkBt
+g6rBzR54QM0Di8AMd5LBVH+JQLARa0BhUaPB4UVHQHr+gkDI2JPBraeOQJbLmr+r86DBwPGvQAP4
+T8DBK6LB1BOlQAXNgUAUmrTBZvWdP+6HkcDAEH3BJ1rmQJY2FEDHObvBpyG5QAi8jUA0EJLBzpnI
+QCqY9L9FnLDB9zHvQN5EiL5L9rvBWh16P9ZbCsD2RYfBSq0dQNpWpb/urZXBrK2LQGGAqD+Gs5/B
+kMRPQI4xusAIkIfBE0jyQOFKwEARfKvBEFC/QHUdwkAz26TBEJ6mQK9zxECLxbbB4GrUQLoCqECi
+wbvBvZrqQERGNUC0cpnBa1oAQbuvj0A7J5nBEmrzQMPlZ0AajqvBTwdZQD3QZEATnqbBVoxFQOVC
+jEBSMYzBfPsQQDA7d0ANqZfBpaZrQKCgQb+FcJ3B
+
+>  <OMEGA_E>  (1) 
+eHgsPuiGoj4=
+
+>  <OMEGA_NBR>  (1) 
+    124885
+
+$$$$
+290114
+     RDKit          3D
+
+ 53 57  0  0  1  0  0  0  0  0999 V2000
+    6.7854    0.0363  -22.7516 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6211    1.4133  -22.5321 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0366   -0.8863  -22.0035 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0756   -4.7718  -17.1768 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9289   -4.3133  -18.1890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9520    0.9488  -20.8264 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8611   -2.6735  -17.3359 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2391    8.6085  -24.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1193    7.0755  -25.5057 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6829    1.8816  -21.5769 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1289   -0.4188  -21.0251 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0264   -3.9425  -16.7493 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6959    8.3346  -25.2725 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7117   -3.0322  -18.7443 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6491    6.4621  -23.3159 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3345    3.9215  -19.1579 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5902   -2.5181  -19.8035 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6127    5.4922  -21.1844 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2466    4.0987  -22.6260 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1388    3.7416  -19.3741 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7993    4.0190  -20.8410 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4961    3.3694  -21.3193 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6936   -2.2407  -18.3065 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2081    7.6658  -23.0441 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0993    6.1605  -24.5210 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6908    5.4782  -22.3556 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3134    3.6551  -20.4426 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1158    4.0091  -18.5066 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3395   -1.2269  -20.2287 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5451   -3.1746  -20.2047 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1802   -4.3600  -15.7837 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7234    9.2666  -26.2486 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8013    4.2492  -18.2380 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4869   -0.3128  -23.4949 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2129    2.1205  -23.0942 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1531   -1.9463  -22.1743 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2223   -5.7456  -16.7333 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7422   -4.9310  -18.5403 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2447    1.2944  -20.0870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0551   -2.0358  -17.0040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6801    9.5733  -23.8017 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6941    6.8435  -26.4710 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1635    6.0361  -20.3403 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5741    5.9563  -21.4496 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8340    3.6517  -23.4416 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1786    4.0763  -22.8884 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3157    2.6629  -19.2509 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0526    4.2953  -19.1128 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6202    3.6265  -21.4592 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4155    3.6411  -20.8827 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0833    4.2535  -17.5375 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2682    3.8281  -19.0054 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4766   -0.8262  -19.9207 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  1  0
+  2 10  1  0
+  3 11  2  0
+  4  5  2  0
+  4 12  1  0
+  5 14  1  0
+  6 10  2  0
+  6 11  1  0
+  7 12  2  0
+  7 23  1  0
+  8 13  2  0
+  8 24  1  0
+  9 13  1  0
+  9 25  2  0
+ 22 10  1  6
+ 11 29  1  0
+ 12 31  1  0
+ 13 32  1  0
+ 14 17  1  0
+ 14 23  2  0
+ 15 24  2  0
+ 15 25  1  0
+ 15 26  1  0
+ 16 27  2  0
+ 16 28  1  0
+ 16 33  1  0
+ 17 29  1  0
+ 17 30  2  0
+ 18 21  1  0
+ 18 26  1  0
+ 19 22  1  0
+ 19 26  1  0
+ 20 21  1  0
+ 20 33  1  0
+ 21 22  1  0
+ 22 27  1  0
+  1 34  1  0
+  2 35  1  0
+  3 36  1  0
+  4 37  1  0
+  5 38  1  0
+  6 39  1  0
+  7 40  1  0
+  8 41  1  0
+  9 42  1  0
+ 18 43  1  0
+ 18 44  1  0
+ 19 45  1  0
+ 19 46  1  0
+ 20 47  1  0
+ 20 48  1  0
+ 21 49  1  6
+ 27 50  1  0
+ 28 51  1  0
+ 28 52  1  0
+ 29 53  1  0
+M  CHG  1  27   1
+M  END
+>  <OMEGA_C>  (2) 
+JyLZQNi4FD1MA7bBAODTQDfmtD+wQbTBkCvBQALjYr8xB7DBT9dEQLGymMAAaonBhXN7QJsGisAb
+g5HBfXaeQBzmcj+DnKbBzTfuP/waK8Dsr4rBUabHQIC8CUE/CcDBR9GjQFtq4kCqC8zBktq1QOvW
+8D9unazBxh+kQAVq1r5VM6jBn7ABQENRfMCJ/oXBEEW2QKRaBUEVLsrBbIxtQGQPQsBt9JXBy8W0
+QGTJzkDnhrrBmLSKQBr5ekBVQ5nBGeOSQC0oIcCKbZ7BGpvTQFbAr0CYeanB3eOnQNUog0AeArXB
+xXDkQLt1b0Aq/prB05PZQG6bgEB3uqbB59+vQIijV0D5jarBMWMsQFtnD8C5c5LBDKnGQChO9UBA
+WrjBuS2jQG0ixUAaK8TB8xq2QJNNr0BU2LLBTQeKQHDsaUBxiqPBwmlHQKpKgECEDZTBDd2KQHQK
+nb9O1KHBlnGxQH4sS8BNo6HBSxGXP3iFi8AMinzB8yW3QNtDFEEu/dHBfqS5QAr5h0CD55HBdpTv
+QPUooL6N9bvBAdDmQMS2B0DjwLjB7+XEQIsg+b/zZLHBLTpOQMvbt8DF3YXBB8CXQO7KncCeUpTB
+jNSHQJKtpT8isqDBzAyHP1RLAsBCCIjBMMPVQCwsGUHnab7BTDaWQBL+2kCexNPBlzvFQLknwUDu
+uKLBC1/yQK+ZvkDLmKvB3K+6QEe1aUBZiLvBv7aFQGdxgkCIG7fBhBrqQPBsKkDrAZrBiNcAQbZy
+iUDz5pjBn9jzQFsYaEBjrKvBIJhaQNkHaUCzD6fBC1RFQFMciEC3TIzBYCoRQEv/dED+CpjBZYBe
+QIOCU79/XZ/BH2LXQKAv9jxQPLbB+APSQMg4tD9JkLTBzj/AQD4RZL8ZCrDBqIHoP5afMcD40InB
+SvYnQHxUEsDpDpLB5eCdQEJNcz9WmabBYlVJQPXYmcD7DorBBee+QDqSDUHpPbzB15uRQH0q8UCb
+7cfBH620QML28D+/yqzB88OjQHQM2L6VGqjBYmQFQMikgcCfvIXB4AylQBA8DEFoasXBBBhsQLhv
+RcBCEJbBMTmxQAQl00Dgw7jB94OKQCg8fUDDWpnBS4GSQO6+IsA4aZ7B0TbXQMpkrkDPbqnBWw2p
+QMOQhEAv+rTBtNnjQJqUbEAkxJrBVFraQHYdfkDclKbB3OqvQHT6V0BImqrBagZ7QKReisABC5LB
+C5TEQD1m+ECkDbbBcP6XQGYKz0AYjcHB3Za3QAEWsEAKT7LBk/uJQBwta0B9naPBKQtHQIs0gUA9
+IZTBkRyLQDUtnr/JnKHBYWOxQLZPTMBJhqHB+yaqP4CBkcD9aXvBmQOfQBqLHUFsssvBq1G5QGnG
+iUADCJLBOlHtQJaxpL5nSrzBWWLkQO0tB0A8PLnBgzPEQK3N+b+3VLHBAYiAPz+tC8CmqobBbTcc
+QPkqp78XX5XB9ZOHQNU1pj9dnaDBN/tVQCFuucA77YbB0SvOQOOBHEGqKrrBgEV7QPZb7kC28c7B
+W+/LQLwbwUCdiKLB63D2QBS7ukBBE6zBak68QAvDbUBkgLvBZBSHQP6EhEDoR7fBOVPnQFkjJ0AK
+nJnBDvgAQQdbhkBbl5jB8WP0QPj7YUClWKvBS5NaQPYVakBCJ6fBcOxEQA4/iUAdZIzBy9kQQMQQ
+dkCSGJjBAVJgQLaqUr+31p7B
+
+>  <OMEGA_E>  (2) 
+HNsAPxBIHj8=
+
+>  <OMEGA_NBR>  (2) 
+     37035
+
+$$$$
+290116
+     RDKit          3D
+
+ 53 57  0  0  1  0  0  0  0  0999 V2000
+    6.0222   -0.9193  -22.0240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7735   -0.0074  -22.7790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0277   -4.8196  -17.2390 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8898   -4.3521  -18.2393 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9658    0.9294  -20.8508 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8716   -2.6842  -17.3253 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8203    8.7963  -23.6763 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3977    7.4128  -25.0619 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6982    1.8631  -21.6059 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1284   -0.4401  -21.0427 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0041   -3.9754  -16.7798 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6314    1.3756  -22.5714 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9930    8.6594  -24.8045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7059   -3.0486  -18.7532 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4353    6.5581  -23.1533 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3375    3.9425  -19.1512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5931   -2.5289  -19.8025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6163    5.4889  -21.1750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1871    4.1226  -22.5990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1335    3.7424  -19.3611 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7989    4.0167  -20.8309 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4976    3.3564  -21.3201 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7109   -2.2441  -18.2870 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0276    7.7421  -22.8661 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6284    6.3799  -24.2312 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6735    5.4859  -22.3262 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3200    3.5997  -20.4177 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1148    4.1077  -18.5227 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3389   -1.2410  -20.2375 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5595   -3.1787  -20.1871 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -4.3991  -15.8216 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4108    2.1990  -23.3112 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7732    9.7082  -25.6256 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8012    4.2658  -18.2300 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1269   -1.9810  -22.1922 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4656   -0.3698  -23.5246 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1481   -5.8112  -16.8285 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6851   -4.9801  -18.6131 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2645    1.2811  -20.1086 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0856   -2.0351  -16.9685 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2884    9.7453  -23.4602 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7579    7.2845  -25.9225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1885    6.0376  -20.3230 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5764    5.9442  -21.4594 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7174    3.6828  -23.4565 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1056    4.1264  -22.7995 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3006    2.6627  -19.2332 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0519    4.2890  -19.1007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6246    3.6252  -21.4433 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4167    3.4869  -20.8315 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0792    4.4040  -17.5683 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2674    3.9307  -19.0233 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4763   -0.8382  -19.9315 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1 10  1  0
+  2 12  1  0
+  3  4  2  0
+  3 11  1  0
+  4 14  1  0
+  5  9  1  0
+  5 10  2  0
+  6 11  2  0
+  6 23  1  0
+  7 13  2  0
+  7 24  1  0
+  8 13  1  0
+  8 25  2  0
+  9 12  2  0
+ 22  9  1  6
+ 10 29  1  0
+ 11 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 17  1  0
+ 14 23  2  0
+ 15 24  2  0
+ 15 25  1  0
+ 15 26  1  0
+ 16 27  2  0
+ 16 28  1  0
+ 16 34  1  0
+ 17 29  1  0
+ 17 30  2  0
+ 18 21  1  0
+ 18 26  1  0
+ 19 22  1  0
+ 19 26  1  0
+ 20 21  1  0
+ 20 34  1  0
+ 21 22  1  0
+ 22 27  1  0
+  1 35  1  0
+  2 36  1  0
+  3 37  1  0
+  4 38  1  0
+  5 39  1  0
+  6 40  1  0
+  7 41  1  0
+  8 42  1  0
+ 18 43  1  0
+ 18 44  1  0
+ 19 45  1  0
+ 19 46  1  0
+ 20 47  1  0
+ 20 48  1  0
+ 21 49  1  6
+ 27 50  1  0
+ 28 51  1  0
+ 28 52  1  0
+ 29 53  1  0
+M  CHG  1  27   1
+M  END
+>  <OMEGA_C>  (3) 
+6LXAQEdYa78TMbDBU8DYQGB38rtPO7bBM8VBQPU5msBs6YnBGvN4QMxEi8Ak6pHB1+eeQLXrbT9p
+zqbBDY/vPw/KK8AimorBAkC6QKa9DEEFab3BmrmMQPg17UDOfsjBEFi2QCR57j/z2KzB5xukQDJU
+4b6IV6jBdkMAQEBsfsD+PIbBzjTUQBQSsD9SkrTBmsafQBCNCkG0b8bBLi5tQGEcQ8CeBpbB0e2t
+QOfb0UDsObnBIc2KQH5RfEC0NZnBtPqSQMvZIcCTa57Bs7jTQF2lr0BcZqnB9fylQFjsg0C/yrTB
+h0XkQOuDb0B245rB75DZQOGIgEC2pabBaOyvQH/PVkCRj6rB1n4tQN+fD8DeS5LBMuLAQIe/90DO
+7bbBLhyUQPcnzECI2cHBh421QMyMr0ABnLLBcj2KQMNgZkBsV6PBgVhHQBNyg0CILpTBlNiKQL7X
+nr9r5qHBcuexQHhvS8BAf6HBToaTP0HFjMByJX3BCSXtQBq9DEBbfbrBsb2YQM5UG0FQAc3BrKO5
+QKSBiED21pHBPA/EQOuQ/b+jibHBP+buQJdcvb5lMrzB83pJQKT1ucDAoIbB/+uVQPtcn8Cd55TB
+8XaIQHH7oz9Z3qDBMvSKP44+AsCKv4fBxjrJQL/sG0GSrrvBrYBwQJoa6UBBYc/B3QfGQOQzwUBr
+laLBHXLyQMc2vkDWrKvBPfW2QBuza0D3prvBtWCDQGELhEBKZbbBRZ7pQFdqKkCA3ZnBo9QAQTQ/
+iUA8zpjBBf3zQNQDaEDPi6vBb6paQMQoX0DopqbB9xBFQEntjEDai4zBVxwRQGGQe0CpL5jBZnte
+QGSWVr+7c5/BO0nCQFltar/atK/Bs6DZQID/u7sQ6rXBmuboPzzYMMBRzYnBrCsoQOEyEsDgFJLB
+TgufQC1WcD8Jt6bBwqRJQD5wmcAR3InB5QC9QD8ADUFYOb3B43ilQBOC6EBE6MrB3he2QPit7z/1
+4qzBiz2lQBb23r5u+afBeJgFQFUZgcC2noXBWyvUQPJhsD8qiLTBW8SxQDwLCUFO78fBCzRsQJ+2
+RcCqBZbBGNuwQIQY0kCmUrnBxWqKQIuQfkAwXJnBH3SSQLYCJMB4cJ7BppnUQDH6r0C8eKnBu/Wm
+QHjXhEBM07TB5a/jQLOrcEC70JrByqvZQL+6gEAln6bB1/OvQLzSV0DVnqrBJTp7QN1PisAh5JHB
+sIO8QADK+UDyE7bBnNOkQPczyUAjhsPB7/2zQGjjsEC9JrLBQQuKQFsHaEA2e6PBOZFGQO1Mg0B3
+Q5TB8bGMQJYvnr85VaHB1HyvQPZuUMDdAaLBwBGqP7DBkMAZLnvBTunsQKBdDEAskLrB4Z2yQHj1
+GEGnO8/BaAu5QFIUi0ClDJLB+IHGQLo5/b+y1bDBpQLwQCT1vb460LvBNOiAP+unCsBos4bB44Ac
+QEphp7/md5XB0iOIQGd5pT+/5aDB4nRWQITWuMD2n4bBQgHGQAvtHEG5vLrB7JScQOO24UD6FNPB
+83XJQEVOwkBvfqLBnSLzQItNvUDdT6zB+/u5QAqTcED/h7vBVMOEQECFg0CK4rbBueXnQAZsK0Bg
+oZnB278AQR8LiUDwtJjB7zH0QLB7Z0DtaKvBNG1aQIfMYEA01abBVRxEQIayjEBWn4zBcX8QQH2c
+eUBLOZjBJgZmQNSHSr/uJp7B
+
+>  <OMEGA_E>  (3) 
+yG/8PlzCGj8=
+
+>  <OMEGA_NBR>  (3) 
+     39118
+
+$$$$
+290121
+     RDKit          3D
+
+ 53 57  0  0  1  0  0  0  0  0999 V2000
+    6.0127   -0.9132  -22.0316 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7610   -0.0051  -22.7931 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9568    0.9401  -20.8661 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0003   -4.7387  -17.1494 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8432   -2.6162  -17.3518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9548    8.7786  -23.7016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4969    7.4208  -25.0759 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6869    1.8715  -21.6281 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1204   -0.4309  -21.0509 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6161    1.3787  -22.5956 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9686   -3.8783  -16.7456 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8774   -4.3215  -18.1612 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1609    8.6389  -24.8533 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7065   -3.0328  -18.7347 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4279    6.5886  -23.1035 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3396    3.9171  -19.1570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5988   -2.5165  -19.7947 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6629    5.4845  -21.1914 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2072    4.1517  -22.5994 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1301    3.7373  -19.3645 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8110    4.0075  -20.8383 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5013    3.3663  -21.3331 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6997   -2.2160  -18.3147 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0733    7.7508  -22.8415 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6386    6.4143  -24.1949 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6236    5.5217  -22.2580 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3214    3.6165  -20.4341 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1216    3.9835  -18.5015 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3353   -1.2320  -20.2398 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5784   -3.1470  -20.1768 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3925    2.1960  -23.3447 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0958   -4.2625  -15.7896 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8495   -5.1702  -18.5721 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0347    9.6593  -25.7279 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7982    4.3006  -18.2545 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1185   -1.9756  -22.1946 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4535   -0.3712  -23.5366 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2567    1.2950  -20.1243 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1176   -5.7081  -16.6879 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0475   -1.9552  -17.0413 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4682    9.7087  -23.5076 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8758    7.2933  -25.9502 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3371    6.0615  -20.3134 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6148    5.8906  -21.5644 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7903    3.7632  -23.4474 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1354    4.1159  -22.8443 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2724    2.6553  -19.2259 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0580    4.2659  -19.1007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6339    3.5966  -21.4417 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4189    3.5457  -20.8589 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0866    4.2449  -17.5369 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2771    3.7700  -18.9926 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4695   -0.8332  -19.9375 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  9  1  0
+  2 10  1  0
+  3  8  1  0
+  3  9  2  0
+  4 11  2  0
+  4 12  1  0
+  5 11  1  0
+  5 23  2  0
+  6 13  2  0
+  6 24  1  0
+  7 13  1  0
+  7 25  2  0
+  8 10  2  0
+ 22  8  1  6
+  9 29  1  0
+ 10 31  1  0
+ 11 32  1  0
+ 12 14  2  0
+ 12 33  1  0
+ 13 34  1  0
+ 14 17  1  0
+ 14 23  1  0
+ 15 24  2  0
+ 15 25  1  0
+ 15 26  1  0
+ 16 27  2  0
+ 16 28  1  0
+ 16 35  1  0
+ 17 29  1  0
+ 17 30  2  0
+ 18 21  1  0
+ 18 26  1  0
+ 19 22  1  0
+ 19 26  1  0
+ 20 21  1  0
+ 20 35  1  0
+ 21 22  1  0
+ 22 27  1  0
+  1 36  1  0
+  2 37  1  0
+  3 38  1  0
+  4 39  1  0
+  5 40  1  0
+  6 41  1  0
+  7 42  1  0
+ 18 43  1  0
+ 18 44  1  0
+ 19 45  1  0
+ 19 46  1  0
+ 20 47  1  0
+ 20 48  1  0
+ 21 49  1  6
+ 27 50  1  0
+ 28 51  1  0
+ 28 52  1  0
+ 29 53  1  0
+M  CHG  1  27   1
+M  END
+>  <OMEGA_C>  (4) 
+aWjAQLTJab/PQLDB61nYQMC9prs5WLbBYp6eQByscD/E7abB+QRAQJmjl8DhMYnBW+7rP15vJ8Bk
+0IrBW42+QCh1DEHfnL3BnuaPQIN37UCAm8jBFPu1QAaO7z9yBq3BgNqjQLma3L40aKjB7bbTQJJ6
+sD++w7TBtvn7P+I2eMAR94XBpiZ4QGxJisA3SpHBByalQPs4CkGP08bBjTZtQN4YQsDE4JXBk7Gt
+QLjV0kD207jB4d2KQBOxekCUQZnBNymTQLUOIcCTW57BhTbVQGGBr0AOiKnBXKGmQFnahECNy7TB
+ISrkQCkvb0CV6prBGfTZQFE9gEDDtKbBbQqwQFdxV0A9qqrBkccsQCrTDcB7hJLByFjCQFMG+EB0
+u7bBCG+UQMZBzUA/j8HBT/SzQMmxsEBgELLBykiKQHd1Z0AfeaPBtchHQKfxfkD9ApTBwbqKQJSw
+nb8r66HBi4KyQLlnScAOaqHBwY/sQGOLDEDawbrB3UOMP25miMBKonzBZS+bQDNypcCYk5TB8huh
+QHuMGkHM0s3ByYq5QIKeiUAwCZLBCMvDQPjg/L+KjrHBK4PuQJ4Ovr7bSrzBSjeIQH7DpT96/qDB
+eoZHQJqotsC4gIXBLhWGP8VD+r+TVIjBt/vOQO5WG0GiD7zBogx4QABj6UD/mc/BiMnKQBz4wUDb
+gaLBKazzQHp/vEDpg6zBEEq5QJPYcEBGlLvBUFWEQFW1g0A3wbbB2bfoQCPxKUCnzpnBiu0AQUCC
+iEAuzpjBzkj0QNcuZkCRiKvB5s5aQILsYkAf36bBropFQH7Wh0CES4zBarwRQG1IcUDs8JfBgQxe
+QNNLVb/9f5/B
+
+>  <OMEGA_E>  (4) 
+oDEAPw==
+
+>  <OMEGA_NBR>  (4) 
+     55504
+
+$$$$
+50529660
+     RDKit          3D
+
+ 45 48  0  0  1  0  0  0  0  0999 V2000
+    0.7165   -5.0927  -16.6189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0508   -4.9789  -17.3988 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1343   -0.8262  -21.7396 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8589    0.0618  -22.5570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0713   -4.2480  -18.0291 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9275    1.0596  -20.7836 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5784   -3.0730  -17.7267 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7859   -4.3821  -17.2477 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6909    1.9771  -21.5464 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1652   -0.3188  -20.8503 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6455    1.4548  -22.4663 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7963   -2.9423  -18.5021 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4118    3.8012  -19.1669 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8169   -2.1819  -19.2469 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4318    5.6630  -21.6670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7493    5.2634  -22.9730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0628    4.4736  -19.5000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7256    4.3175  -21.0154 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4441    3.5018  -21.4062 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1581   -5.6695  -16.1074 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5664   -2.3844  -18.3405 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3028    3.8104  -20.4766 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2801    3.9573  -18.3823 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3710   -1.1428  -20.0595 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0120   -2.4151  -19.0878 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0726    4.0031  -22.7233 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3536    2.2694  -23.2845 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9566    3.5171  -18.4063 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2337   -5.9800  -17.0370 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3195   -1.8888  -21.7934 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5833   -0.3250  -23.2584 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0548   -4.6773  -18.1515 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1459    1.4309  -20.1373 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6105   -2.6107  -17.6007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3598    6.2213  -21.8595 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7624    6.2696  -21.0394 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0208    6.0321  -23.2703 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4979    5.1402  -23.7694 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0954    4.1320  -19.3359 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9818    5.5376  -19.2330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5913    3.8612  -21.5178 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4139    4.0345  -20.8762 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3515    3.9069  -17.3861 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3921    4.1203  -18.8123 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3857   -0.9727  -20.0763 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  1 20  3  0
+  2  5  2  0
+  2  8  1  0
+  3  4  2  0
+  3 10  1  0
+  4 11  1  0
+  5 12  1  0
+  6  9  1  0
+  6 10  2  0
+  7  8  2  0
+  7 21  1  0
+  9 11  2  0
+ 19  9  1  6
+ 10 24  1  0
+ 11 27  1  0
+ 12 14  1  0
+ 12 21  2  0
+ 13 22  2  0
+ 13 23  1  0
+ 13 28  1  0
+ 14 24  1  0
+ 14 25  2  0
+ 15 16  1  0
+ 15 18  1  0
+ 16 26  1  0
+ 17 18  1  0
+ 17 28  1  0
+ 18 19  1  0
+ 19 22  1  0
+ 19 26  1  0
+  2 29  1  0
+  3 30  1  0
+  4 31  1  0
+  5 32  1  0
+  6 33  1  0
+  7 34  1  0
+ 15 35  1  0
+ 15 36  1  0
+ 16 37  1  0
+ 16 38  1  0
+ 17 39  1  0
+ 17 40  1  0
+ 18 41  1  6
+ 22 42  1  0
+ 23 43  1  0
+ 23 44  1  0
+ 24 45  1  0
+M  CHG  1  22   1
+M  END
+>  <OMEGA_C>  (5) 
+YG83P2H3osB184TBoT9DQFdTn8CsMIvBSUzEQAyBU7+p6q3BeXzbQKYxfT2kdLTBTEiCQPDvh8CS
+O5DB4K2dQJyihz/ZRKbBhgfKP8urRMA80I3BXJjkP486jMBT+4nBgBu2QOUQ/T8LX6zBcUmlQDY6
+o75TzabBVqjUQAE3uj/wurPBPvZyQC9OPMBlBJTBSy2NQOBGc0DoVZnBXCSaQO6jC8Cf+ZnBLtHN
+QEk3tUAMVq3BCPq3QPRtqECoyLfBVALiQKcnj0AEAJzBTDjXQKYoikBzH6jB/TWuQBgdYEDaP6vB
+mOkhvsxstcDc24DBdj8kQEiaGMBKuZLBQ7CJQBfec0Ag0KPBAu1RQEtEfUDoDpPB1d6LQHlGkr/o
+eaDBHWLAQKmRGsDos5jB8lKiQKIZgEBSybXB5lDrQG49EUCQRrrBvZy+QDEYYUAdQJPBmfROQMtb
+v8DGS4jBbznKQBfF8b/uWK7BSqryQNlspr5CEbrBjsChQKGslcA+NpHBa6uEQPQmtz8eGaHBQ0cc
+P2IVJ8BUzozBtoPrQOoUx0Ap4K7BcmW4QLmgyECsUKjBPaqgQBAHwUChKbrBJO/PQC18pEC+J77B
+6YYBQQw5hED/r5rBvWrfQBQ0sUAi3ZnBq+vyQBQed0CKJKzBYH1aQPQagUCLAqfBTn9WQKEKekC/
+FovBOBgZQJ7Zg0CNf5bB0q5YQPT/eL80nKDBn/tlP+OwlsAEPIDBPOszQNIsocAIXozBrC23QExv
+Vr88drDBjprNQODoszvAcLfBUlNuQEWcj8C2sJPBPmSsQOPEhD91WaTBNe3pP1TvNMCJeorBJKrs
+P7ErhsAetYfBqnnCQH+d9T/sWavB9eCmQGaYp75sxabBtW/TQN8Wrz+TBbXBDrJpQNDFRsAUKZbB
+y/LdQGQqnkDFGLfBYLaSQIiLH8B1553BsOuQQH0MgkB1+ZrBv2W9QGvXg0D9AJbB4NeZQAsIs0BP
+oqrBx2GaQB7Kg0Bw86bBeKDHQNS+WkATBajB8oP3PcwIpMAlRnTBvpUtQGjoE8D0h5HBdV/nQDXA
+hEDIA6/BbV/9QDvvp0BLi77BU8qPQGgijr8Ng5/B/GauQDleS8AgNaLBvj3ZQBI8WUDmMZ3BcJrp
+QNJFBkC8ObzBHOyrQO4ktkC/TrjBBEE2QGXDwsCWWorBsWOyQGws8L+igLLBlZfaQHyDyr61xr7B
+HiSPQDyVo8AhZ5fBo3efQJNetj/V9ZzBrVyLP6F6C8BQ5IbBCWWAQLFaSEBW1JjBYdN6QMWPnUCU
+dJjB+xXIQMk9pUBiPpXB8TW9QDxKaUD7EI7BjyhyQDKxv0B9D6rB7DevQJEAxkAxf6XBD1iCQBGd
+YkCZa6vBTDMDQYaPgECjXK3BiBb3QP1xvED0esTB4icNQVp3mkAQ+r3BT1x1QKbtH7+G7JrB
+
+>  <OMEGA_E>  (5) 
+1KH6PkwsQj8=
+
+>  <OMEGA_NBR>  (5) 
+    120443
+
+$$$$
+50529662
+     RDKit          3D
+
+ 44 47  0  0  1  0  0  0  0  0999 V2000
+    3.0160   -4.8334  -17.2551 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9828   -3.9970  -16.8015 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0370   -0.8709  -21.9902 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7564    0.0490  -22.7697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8783   -4.3634  -18.2565 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0168    0.9703  -20.7688 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8381   -2.7128  -17.3612 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7118    1.9066  -21.5576 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1653   -0.4010  -20.9828 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5942    1.4315  -22.5667 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6877   -3.0623  -18.7760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3570    3.9564  -19.1468 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5942   -2.5227  -19.8021 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5151    5.5472  -21.2591 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5919    5.4188  -22.4882 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1678    3.8713  -19.4141 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7881    4.0990  -20.8842 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4937    3.4020  -21.3253 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6784   -2.2689  -18.3218 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3190    3.6645  -20.4284 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1487    4.0761  -18.4807 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3702   -1.2123  -20.1899 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5607   -3.1702  -20.1907 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2073    4.0237  -22.5914 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2715    2.2824  -23.3730 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8314    4.2748  -18.2368 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1443   -5.8220  -16.8398 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3060   -4.3353  -16.0309 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1494   -1.9315  -22.1598 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4374   -0.3065  -23.5288 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6782   -4.9878  -18.6263 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3588    1.3183  -19.9863 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0409   -2.0711  -17.0164 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4471    6.0712  -21.5176 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0104    6.0795  -20.4393 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6988    6.0472  -22.3561 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1282    5.7302  -23.3967 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4357    2.8122  -19.2851 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0387    4.5010  -19.1792 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6103    3.7270  -21.5130 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4134    3.6118  -20.8492 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1336    4.3356  -17.5150 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2912    3.9030  -18.9653 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5245   -0.7978  -19.8538 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  5  1  0
+  2  7  1  0
+  3  4  2  0
+  3  9  1  0
+  4 10  1  0
+  5 11  2  0
+  6  8  1  0
+  6  9  2  0
+  7 19  2  0
+  8 10  2  0
+ 18  8  1  6
+  9 22  1  0
+ 10 25  1  0
+ 11 13  1  0
+ 11 19  1  0
+ 12 20  2  0
+ 12 21  1  0
+ 12 26  1  0
+ 13 22  1  0
+ 13 23  2  0
+ 14 15  1  0
+ 14 17  1  0
+ 15 24  1  0
+ 16 17  1  0
+ 16 26  1  0
+ 17 18  1  0
+ 18 20  1  0
+ 18 24  1  0
+  1 27  1  0
+  2 28  1  0
+  3 29  1  0
+  4 30  1  0
+  5 31  1  0
+  6 32  1  0
+  7 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 16 39  1  0
+ 17 40  1  6
+ 20 41  1  0
+ 21 42  1  0
+ 21 43  1  0
+ 22 44  1  0
+M  CHG  1  20   1
+M  END
+>  <OMEGA_C>  (6) 
+SQZBQOiqmsCMCorBW839P3POf8BtaYbBNi/BQN7wXr/y66/BLjTYQLC4SD1ZKLbBZjZ4QCahi8Bg
+DZLBh4mgQMRmeD+BJqbBjUfrPwefLcDW44rBsMa2QPkJ9D8KdqzBi0qlQDBNzb7P3KfBBgTTQDM7
+tz+ZiLTBxgJsQGj9Q8BMNZbBqWyLQAY2fUC2LJnBogOTQKB0IcCuap7Bd3vQQAaDsUCTEqrBi/Cy
+QMtmrUC957PB3l7lQIDDd0D6T5vB/zfZQCorg0DHEqfBdsyvQJa5WUAxmqrBumorQMQ1EcAFk5LB
+SzWKQJCGakBDbaPBuINJQD9vgkBk2JPBuNiLQCAum7/WhKHBL/GxQE7kSsCPhqHB/aGmQOLBgEAa
+u7TBZ7DoQDwSEkDz+7rBhpq6QPDKiEDf5JHBlDxJQMtNusDat4bBryqnPx+7isBGP4DBOMjEQAw8
+979NR7HBWv/tQJvvnL7oOrzB57OVQBWcn8ClApXBO3uLQEu+qD/k45/B2jqFPy6MBMCoIYjBS07u
+QJ9HwkABJKzBPVXAQJGLwkC+g6PBRVyWQO6CwUBC2bLBVxrEQHZdt0BbLLvB8vDtQLj7M0DLR5rB
+cZ4AQQIIkEAZb5nB34fzQImGbkC0GqzBJnVaQDwoZ0Amy6bBTY1IQB69ikDLHozBy6MSQEHKeUDr
+uJfBaZFhQLY8TL+V1J7BAj/gP1arMcDncorBYiT9P7I7gsDUiIbBx17DQPdtWL/jYK/BfPHYQPC1
+pD1837XBFOsmQEOvEcD9WJLBNNSgQEOufT8l76XBcEJDQGtymsDBp4rB0r+1QJYr9z/1fKzBrhan
+QEyvw77KYafBwgLSQFDouj9vkLTBE1ZrQO04RcDFMZbBqWaKQCCCgEDjQJnBSSKTQECGIsAeVZ7B
+AyLUQOsnsEDpoKrBiZ68QBJIqkDhS7XBXpTjQGXAekCH85rBhYPZQDNjgkCL56bB9h6vQG9pW0Ds
+larBGeJ3QBCtisAsT5LBbniJQHNrbEDEcaPB5vVHQM9igEA7vJPBEMCOQOTNmL/UxaDB8YmvQLF6
+T8DXG6LBRJylQMH9gUBntrTBfofmQJAeFEC7OLvB97G4QEoNkUC/bpLBA2tvP+9mC8Bzb4fBpgar
+PxV4j8AUbIDB9l3IQJ7X879PfbDBYf7uQEe+ib716LvBxUodQHYupL/+gpXBXp+LQFrsqj9rsZ/B
+zChOQPFbusCioYfBbkzzQCbav0DCyKvBjdnAQNHVwkDk76TBbAOmQJXJxEC/jrbBSMfTQJ5oqUB/
+67vBJrnoQEh/NkCAOJnBnXcAQYlhj0D8IJnB877zQE51Z0DDfKvBVRBZQKiNZ0DyzabBdTVGQE2O
+iUDrEozB8DcSQGZBbkBYaZfB9EVsQJ6nPL+5Mp3ByjVYQHmpm8Cns4/BGfQNQPEYj8BuLorBHq+z
+QFHuKr9AlbPBLR/IQGZKmD4Q8rnBjvWFQCfMd8A5W5TBi/GhQC61hj94jabBoIrzPyJgRsCibonB
+7Si1QF6jA0CcB63BWK+hQNtZmr62t6nBZJzJQEiy0j8csrbB2UF0QCvbIMA7Q5PBPEWFQIKPb0Cb
+bJnBh3GTQNEFvL+0hJjBoTzhQFJFrkBHG6bBHT/UQL9urkCw0bHBPqrdQO9DckCqu5bBBRPdQHFQ
+fkC5HqPB9CG0QD0qY0DifKnBDnQsQGK8CcDB5I3BOFWLQGd1d0BBw6PBTo46QO/vgEAfOpXB7PmN
+QP/epL+igaPBdUuuQI1/Wb/IVpPBQ1W0QFoRjUAr+rLB65XeQEJbIUBDFr3BCcKsQOA8RUAJB5HB
+5zJpQGAPvcCnWpDBsKXJP9/IpsAejobBdM+xQEKW2L+IR7bB4NbWQKVNXTuMZsHBLoKiQKWVhMDl
+tpjBdUGTQJGOqj8+D5/Bq0yBP0cQM8BUNYXBmyoBQWOMuUA8F6XBFJbLQO09wkDPSaHBVJ7GQMSs
+zUAmBLTBjRjwQOCdp0CZ7LbBWlv4QNdKR0ADuJTBexfjQMOgmECBC5PBcIv4QJ96W0Dde6bBLpJl
+QIdXhkDoJ6jBsI0uQJ7idkBvfY3B5dEMQL4KjUAt75nBMnh0QCCt9b8mRKfB
+
+>  <OMEGA_E>  (6) 
+KPg8PngCqj5MSxA/
+
+>  <OMEGA_NBR>  (6) 
+    123055
+
+$$$$
+50529664
+     RDKit          3D
+
+ 44 47  0  0  1  0  0  0  0  0999 V2000
+    2.9837   -4.7979  -17.2534 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8762   -4.3467  -18.2365 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9916    0.9576  -20.7628 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5695    1.4718  -22.5380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0822   -0.8490  -21.9797 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8270   -2.6676  -17.4117 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6693    1.9096  -21.5397 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1833   -0.4063  -20.9824 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7808    0.0988  -22.7497 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446   -3.9475  -16.8406 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7059   -3.0519  -18.7764 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3435    3.9854  -19.1239 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6205   -2.5345  -19.8055 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5575    5.4792  -21.3643 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8530    5.2405  -22.7058 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1484    3.9106  -19.4133 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7711    4.0609  -20.8942 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4480    3.3923  -21.3072 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6953   -2.2428  -18.3523 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2924    3.6508  -20.3922 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1400    4.0976  -18.4480 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3954   -1.2298  -20.2016 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5739   -3.1956  -20.2028 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1136    3.9990  -22.5777 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6381   -0.3073  -23.7115 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8207    4.3762  -18.2521 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8065   -4.4688  -15.6305 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0932   -5.7817  -16.8213 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6825   -4.9799  -18.5763 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3148    1.2843  -19.9871 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0974    2.1961  -23.1406 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2312   -1.9052  -22.1489 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0286   -2.0145  -17.0919 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5124    6.0085  -21.4981 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9198    6.0436  -20.6680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1645    6.0701  -22.9245 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5951    5.1574  -23.5134 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4138    2.8590  -19.2300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0213    4.5494  -19.2131 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5772    3.6159  -21.4961 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3801    3.5584  -20.7912 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1287    4.3935  -17.4928 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2823    3.8828  -18.9151 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5409   -0.8243  -19.8770 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1 10  1  0
+  2 11  1  0
+  3  7  2  0
+  3  8  1  0
+  4  7  1  0
+  4  9  2  0
+  5  8  2  0
+  5  9  1  0
+  6 10  2  0
+  6 19  1  0
+ 18  7  1  6
+  8 22  1  0
+  9 25  1  0
+ 10 27  1  0
+ 11 13  1  0
+ 11 19  2  0
+ 12 20  2  0
+ 12 21  1  0
+ 12 26  1  0
+ 13 22  1  0
+ 13 23  2  0
+ 14 15  1  0
+ 14 17  1  0
+ 15 24  1  0
+ 16 17  1  0
+ 16 26  1  0
+ 17 18  1  0
+ 18 20  1  0
+ 18 24  1  0
+  1 28  1  0
+  2 29  1  0
+  3 30  1  0
+  4 31  1  0
+  5 32  1  0
+  6 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 16 39  1  0
+ 17 40  1  6
+ 20 41  1  0
+ 21 42  1  0
+ 21 43  1  0
+ 22 44  1  0
+M  CHG  1  20   1
+M  END
+>  <OMEGA_C>  (7) 
+QvQ+QI2ImcDpBorBVxR4QDYYi8Bq5JHBFLufQNUndT8mGqbBoDnSQN1kvD+/TbTBGKHCQBNXWb9i
+1q/B7trpP7m6KsAZS4vBjmq1QLxu9D9TUazB7N2lQCoH0L7d26fBHPzYQCNwyj17/7XBZuj4PzOj
+fMCMuYbBty1tQDhSQ8APNpbB6v2KQAkQf0Cz/ZjB1tqTQLo1IsCScZ7BotbRQDlVr0AN6qrBgEu7
+QIyyp0B6pbXBsL/kQLNHekBXTpvBBK3YQDzzgUBjJ6fBulWuQA0cWUA+darBUYAsQLuKD8CE0ZLB
+fFuJQNCmaUA4I6PBb/ZIQOcfg0CDlZPBBKeMQK1rnb/OnKHBRl2yQGqETMBvn6HBBKOjQEPvf0Au
+n7TBVGv0QBtcnb46sb3BPEO6QAgKjEBCBJLBt3lOP6YAj8BYFnrB/vZFQFsDucAakobBztaVQINb
+n8A6nJTBLROKQEFlpD+O5Z/BIB7jQDqMDEAHILnBB2bHQNHc878EMbHBqKeDPxvtAMAyvIjBjWXw
+QEtFwEAq/KvB7m69QHhlwUAnWKXBXUOlQEU+wkBNZbfBYwvTQKIJpUCCG7zBGz7tQJ35NkD01pnB
+UFcAQU6UkUCGtJnBHHjyQK9rZ0AR+KvB81NYQDO9Y0BVVKbBBj1IQNWXjEBb8YvBkRESQHqAeEAg
+UpfBCJ5iQAMEU78NBJ/B
+
+>  <OMEGA_E>  (7) 
+OM5XPg==
+
+>  <OMEGA_NBR>  (7) 
+    127141
+
+$$$$
+50529665
+     RDKit          3D
+
+ 44 47  0  0  1  0  0  0  0  0999 V2000
+    2.9912   -4.8148  -17.2661 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8665   -4.3635  -18.2642 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9961    0.9630  -20.7546 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5612    1.4731  -22.5426 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0801   -0.8460  -21.9732 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8548   -2.6704  -17.3776 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6664    1.9129  -21.5407 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1876   -0.4014  -20.9708 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9735   -3.9561  -16.8185 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7724    0.0997  -22.7510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6999   -3.0612  -18.7864 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3354    3.9872  -19.1287 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6123   -2.5382  -19.8137 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5636    5.4817  -21.3153 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8424    5.2809  -22.6554 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1415    3.8694  -19.3970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7748    4.0519  -20.8767 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4523    3.3957  -21.3054 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7051   -2.2468  -18.3358 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2902    3.6570  -20.3989 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1284    4.1127  -18.4617 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4048   -1.2229  -20.1825 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5561   -3.2040  -20.2258 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1393    4.0134  -22.5743 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1165   -4.3581  -15.8556 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6216   -0.3096  -23.7185 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8127    4.3505  -18.2425 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0975   -5.8052  -16.8487 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -5.0025  -18.6288 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3253    1.2918  -19.9746 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0848    2.1959  -23.1507 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2290   -1.9026  -22.1403 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0705   -2.0121  -17.0343 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5204    6.0080  -21.4477 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9371    6.0343  -20.5996 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1273    6.0992  -22.8257 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5730    5.2555  -23.4773 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3809    2.8092  -19.2275 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0276    4.4844  -19.1812 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5828    3.6186  -21.4844 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3803    3.5709  -20.8048 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1138    4.4024  -17.5047 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2714    3.9138  -18.9371 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5679   -0.8057  -19.8280 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  9  1  0
+  2 11  1  0
+  3  7  2  0
+  3  8  1  0
+  4  7  1  0
+  4 10  2  0
+  5  8  2  0
+  5 10  1  0
+  6  9  2  0
+  6 19  1  0
+ 18  7  1  6
+  8 22  1  0
+  9 25  1  0
+ 10 26  1  0
+ 11 13  1  0
+ 11 19  2  0
+ 12 20  2  0
+ 12 21  1  0
+ 12 27  1  0
+ 13 22  1  0
+ 13 23  2  0
+ 14 15  1  0
+ 14 17  1  0
+ 15 24  1  0
+ 16 17  1  0
+ 16 27  1  0
+ 17 18  1  0
+ 18 20  1  0
+ 18 24  1  0
+  1 28  1  0
+  2 29  1  0
+  3 30  1  0
+  4 31  1  0
+  5 32  1  0
+  6 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 16 39  1  0
+ 17 40  1  6
+ 20 41  1  0
+ 21 42  1  0
+ 21 43  1  0
+ 22 44  1  0
+M  CHG  1  20   1
+M  END
+>  <OMEGA_C>  (8) 
+aW8/QNYSmsDyIIrBfXR3QKShi8AIHZLBqN+fQFqIdj96CabBNPXRQKGNvD9JV7TB6I/CQBKUWL8o
+ya/Ba2rtPxvoKsBcBYvBDlO1QG3Y9D9BU6zBlgCmQB2Fzb5KxKfBnZv8P7kwfcBPjIbBb7fYQJAj
+zD0LArbB18psQOXqQ8CCSpbBMbuKQOYtf0CuB5nBX5iTQO5xIsCNgp7BswjSQBlqr0DFharB9/S6
+QDL9qEA4PrXBFIfkQKKkd0AYLZvBIcvYQGKpgUB2A6fB/XiuQGNSWUBpcarBux8tQAHLD8Cpr5LB
+GUmJQPgMakDzMKPBlzdIQIebg0CgsZPBwvOMQCuInL/MdaHB+suxQJcOTcCFzqHB93SkQPZtgEAU
+mLTBd+qOP051i8C1sH3B0OPzQJ2Bnr5nv73BYgG6QAc3i0Ce8JHBmD1GQE/EucA8yobBYgeVQE4U
+oMC4B5XB1miKQMxapT8UzJ/B0bbiQFyJDECdNLnBpVPHQGyH879NH7HBqQaJP7vFAMBERojB/qbw
+QF5BwEDclKvB8fy9QJQYwUD1y6TBtBKkQKgsw0D7mrbBTlbSQOEsqEB80bvBGTDsQMDKM0D40ZnB
+93AAQZiAj0AKc5nBoKbyQI+WZ0D436vBDFdYQDyJZEArcKbBMUhHQEbgjECkCYzBL14RQDB7ekAV
+f5fBHllkQARBTr/Pn57BauDiP5MhL8ClzIrBxqMnQOlAEsBU6JLBVXqgQL+AcT9n5qXBi3PSQNi4
+vD+6KLTBy0PFQA/mWb/9Wq/BxstDQDh2mcCHcorB/1G1QCyf8z9WOazB9POnQE4Y1754eqfBysL/
+P2g5gMD0e4bBk6PaQPTp1z1Xo7XBfMVrQCU1R8D9jJbBe6uKQOKLgEBwA5nBZMeTQJ3QJcDvq57B
+l7zQQJxnr0DT8qrBJGi6QJ5dp0BUsLXBk7vkQBEMe0DyXpvBne/XQJcngkBWLKfB/bKtQNCuWEAT
+a6rBYg94QLwdi8CwUZLBe9uIQDzIaEDYDaPBZn5IQLKQh0AjyJPBKmuPQMLWn7+9H6HBObewQNmI
+UsCmO6LBurGiQM1Yf0DLlbTBINCZP83pjsBDJn3Bepv2QG5slL6EPb3BzDO6QJnSiEAbw5HBnVZ2
+PyWhB8AT7YfBWuQdQGmnp78saZbBlXCKQN+GoT94wJ/B94LiQFP9DEBUHbnBBTXLQIXM87/0irDB
+VVVOQFXuuMCwIIfBqCPvQN+hwEDXAazBRha8QI9SwUDWZ6XBzm2kQIjawUBgiLfBa0fSQJ1spEAm
+HbzB+pXvQIfgOECuFJrBOFH/QJS2k0CRypnBxabxQJY0aEBqDKzBeTxXQOMQYEDgHabBFFhIQBAD
+kUBrI4zB+yURQOovg0CrpZfBo3BsQO+pTb8Xt53B
+
+>  <OMEGA_E>  (8) 
+cL5QPnA+tz4=
+
+>  <OMEGA_NBR>  (8) 
+    128971
+
+$$$$
+50529670
+     RDKit          3D
+
+ 44 47  0  0  1  0  0  0  0  0999 V2000
+    6.0443   -0.8619  -21.9852 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7609    0.0585  -22.7662 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0269   -4.8162  -17.2478 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9002   -4.3449  -18.2377 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0192    0.9783  -20.7666 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8338   -2.7042  -17.3836 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7114    1.9147  -21.5568 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1728   -0.3923  -20.9780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5947    1.4407  -22.5654 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9797   -3.9847  -16.8192 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7045   -3.0490  -18.7675 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3609    3.9511  -19.1392 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6109   -2.5116  -19.7918 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5229    5.5502  -21.2335 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6016    5.4338  -22.4655 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1757    3.8558  -19.4057 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7929    4.0986  -20.8726 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4969    3.4089  -21.3194 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6847   -2.2594  -18.3316 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3225    3.6704  -20.4229 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1519    4.0877  -18.4776 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3829   -1.2032  -20.1817 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5755   -3.1605  -20.1823 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2146    4.0400  -22.5813 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2708    2.2923  -23.3717 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8375    4.2225  -18.2167 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8625   -4.5337  -15.6022 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.1588   -1.9226  -22.1535 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4428   -0.2963  -23.5248 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1571   -5.8005  -16.8227 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7118   -4.9637  -18.5910 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3596    1.3255  -19.9851 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0273   -2.0667  -17.0525 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4560    6.0754  -21.4855 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0175    6.0753  -20.4097 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7093    6.0627  -22.3297 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1401    5.7520  -23.3704 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4586    2.7988  -19.2926 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0381    4.4941  -19.1632 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6133    3.7309  -21.5064 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4172    3.6267  -20.8455 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1373    4.3328  -17.5082 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2935    3.9412  -18.9692 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5372   -0.7900  -19.8440 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  8  1  0
+  2  9  1  0
+  3  4  2  0
+  3 10  1  0
+  4 11  1  0
+  5  7  1  0
+  5  8  2  0
+  6 10  2  0
+  6 19  1  0
+  7  9  2  0
+ 18  7  1  6
+  8 22  1  0
+  9 25  1  0
+ 10 27  1  0
+ 11 13  1  0
+ 11 19  2  0
+ 12 20  2  0
+ 12 21  1  0
+ 12 26  1  0
+ 13 22  1  0
+ 13 23  2  0
+ 14 15  1  0
+ 14 17  1  0
+ 15 24  1  0
+ 16 17  1  0
+ 16 26  1  0
+ 17 18  1  0
+ 18 20  1  0
+ 18 24  1  0
+  1 28  1  0
+  2 29  1  0
+  3 30  1  0
+  4 31  1  0
+  5 32  1  0
+  6 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 16 39  1  0
+ 17 40  1  6
+ 20 41  1  0
+ 21 42  1  0
+ 21 43  1  0
+ 22 44  1  0
+M  CHG  1  20   1
+M  END
+>  <OMEGA_C>  (9) 
+FmvBQFOnXL+s4a/BDVnYQPifbz1HIbbBdblBQHwemsCO+4nBuZx5QMsJi8DX5pHBe52gQLZuej/w
+IabBZbjqP/QQLcCUEYvB1MO2QDUV9T9XdKzBpoelQCDbyL7y0qfByQfTQCJquD/1hbTBVGb9PxQF
+f8CjjYbBDBZtQDYiQ8DrI5bBhIyLQJfefEAXHZnBeYyTQNO9IMCaVZ7B2rvQQOeasUBE3qnBCECz
+QArirUBgubPBap/lQCXFdkDPPpvBiV/ZQIAng0AD+6bBYOavQGcrWkAYjqrBYtErQOqZEMAnp5LB
+41GKQC/oakAlYqPBirhJQEjOgkAG0pPB20CMQM8Dmr8idKHBpWqyQBFFSsBRdaHBI96mQFBHgUCW
+prTBDKroQMq1EkBQ+brBw8y6QI8eh0C9u5HBT8xcP84TkcCLonnB+BTFQPwW9r9POrHBxivuQP+z
+l77VMrzBeg1KQHaducDulIbBSMeWQGXWnsBqupTBmYGLQNyqqT+J4Z/BGn6DPxVEBMCSa4jB3Zfu
+QFtpwkA+4qvBpo/AQCNpwkD6RqPB4bKWQLYBwkAuo7LBtnvEQF4QuECD9rrB6azuQMUfM0A6V5rB
+FJwAQfPPj0BGTpnBL6DzQIPGbkAcDazB8bNaQC4caECgw6bB6MlIQBKmikC2EIzBxMgSQOA8fEDu
+wJfBqGFiQL89Sr+awJ7B
+
+>  <OMEGA_E>  (9) 
+4PQuPg==
+
+>  <OMEGA_NBR>  (9) 
+    130020
+
+$$$$
+50529671
+     RDKit          3D
+
+ 44 47  0  0  1  0  0  0  0  0999 V2000
+    1.9191   -3.9193  -16.8071 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0860   -0.8605  -21.9679 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9396   -4.7903  -17.2188 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7625    0.0716  -22.7721 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0112    0.9653  -20.7705 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8197   -2.6478  -17.3995 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6660    1.9116  -21.5799 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2004   -0.4035  -20.9658 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5444    1.4508  -22.5982 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8346   -4.3722  -18.2169 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6927   -3.0719  -18.7714 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3400    3.9808  -19.1333 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6196   -2.5410  -19.7979 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5797    5.4906  -21.2866 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8552    5.3208  -22.6285 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1374    3.8460  -19.3915 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7807    4.0515  -20.8696 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4568    3.4033  -21.3204 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6914   -2.2478  -18.3503 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2959    3.6479  -20.4037 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1336    4.1017  -18.4649 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4253   -1.2178  -20.1559 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5619   -3.1987  -20.2250 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1359    4.0602  -22.5693 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1718    2.3129  -23.4328 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8034   -5.2260  -18.6251 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8144    4.3526  -18.2478 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2177   -4.2222  -16.0437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2417   -1.9191  -22.1143 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0353   -5.7696  -16.7737 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4534   -0.2720  -23.5278 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3513    1.3037  -19.9854 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0315   -1.9784  -17.0881 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5408    6.0109  -21.4117 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9590    6.0366  -20.5609 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1501    6.1506  -22.7842 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5850    5.3005  -23.4513 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3480    2.7786  -19.2293 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0380    4.4358  -19.1654 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5916    3.6251  -21.4783 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3853    3.5463  -20.8043 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1189    4.3927  -17.5083 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2768    3.8981  -18.9387 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6071   -0.7874  -19.7747 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0
+  1  6  1  0
+  2  4  2  0
+  2  8  1  0
+  3 10  1  0
+  4  9  1  0
+  5  7  1  0
+  5  8  2  0
+  6 19  2  0
+  7  9  2  0
+ 18  7  1  6
+  8 22  1  0
+  9 25  1  0
+ 10 11  2  0
+ 10 26  1  0
+ 11 13  1  0
+ 11 19  1  0
+ 12 20  2  0
+ 12 21  1  0
+ 12 27  1  0
+ 13 22  1  0
+ 13 23  2  0
+ 14 15  1  0
+ 14 17  1  0
+ 15 24  1  0
+ 16 17  1  0
+ 16 27  1  0
+ 17 18  1  0
+ 18 20  1  0
+ 18 24  1  0
+  1 28  1  0
+  2 29  1  0
+  3 30  1  0
+  4 31  1  0
+  5 32  1  0
+  6 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 15 37  1  0
+ 16 38  1  0
+ 16 39  1  0
+ 17 40  1  6
+ 20 41  1  0
+ 21 42  1  0
+ 21 43  1  0
+ 22 44  1  0
+M  CHG  1  20   1
+M  END
+>  <OMEGA_C>  (10) 
+iaP1P3fVesDmdIbB2sDCQHpIXL80vq/B/SE8QM5JmcAWwInBQWbYQAO4kj1YLbbBjVugQAIgdz8U
+KqbBT+3oP291KcAYMovBMFC1QNmu9D+Uo6zBhWmmQFqUzr4OuqfBtWvRQO6yuT8iybTByGp1QFPp
+i8AkvJHBBVVsQC6aRMDCK5bBjOGKQMjEfkD2EJnBCtSTQNafIsAOYp7BGo3SQEazr0AGS6rBNV67
+QBVEqkAgB7XB1GXkQC4kdkDQIZvBJPvYQO+lgUDw9KbBL56uQOLOWUAmkKrBkj8sQMTcD8ByzZLB
+xneJQC93aUDEOqPBiIxIQE9Bg0AcuJPBU5yNQD/hm784P6HBafuxQDi4TMDkzKHBl1mkQPDsgUD8
+jbTBCH/lQHIGFEB0drvBr7WZQMA7p8BAAJXB8g+6QKhIi0CG+5HB3t2bP0Uch8B9WYDBMbzHQPml
+9b8E6rDB6kJCQI6guMCAMIbBLYLuQPxCi77aOLzBFT6LQBzgpj8K4p/B7gaEP488/b9xtIjBbk7x
+QAtZwEAqS6vBIrC+QHsrwUDAfKTBkc2kQI7RxED2RbbBabjSQN6dqUBEnLvB2iLrQMTTMUCy1ZnB
+dJsAQUHyjUDEUpnBdu7yQIgBaECU06vBBKhYQJ32YkAib6bBb5xHQGaRjED9EIzB1LcRQNx5eUCN
+gpfBFttmQASWSb+DMp7BvvssQAwalMDmvYTB9C23QOqTVb/1PbDB5SH5P36Oa8CsbIrBDJbIQCZV
+nT3qgbfBaRylQFZsgD+HQKTBze6AQLiRnMDu74fB2Fq1QBFm+T9svKvBskqlQFwgxb6aeqbBd+XH
+QOfmuT8OZLXBuKMiQIEAQcCsG5PBn0l4QOXZVMBn5JXBAEOFQBaVhUCJd5nBPtWQQECuKcC77p7B
+j0r7QNj/iUDQFazBQ0rcQCQln0CY67PBEaDXQHLuoUDkJpvB4u3dQOV7eEA1/qLBTeyzQMX+XUC2
+C6nBEN6SQPYjiMAEXpDBDz+KQET/b0B5XKPB6UQ4QEPsiUDFc5XBMc+SQD23n78P357BYmChQG2Z
+VsCg0qXBawi0QOUriECd6bLBQwvZQC2dEECI7LzBhy/pP1h5B8AT15jB1V+wQE4Nk0DPQZHBwXcR
+QPS/pMBE/nvBh163QN7W8b8wFrLBmxxtP97nXcCJKIjBhr7WQFgSkb75177BxmKYQJUYrT9LuJzB
+qIeTQATcs8AxkIPBvJsFQTx8XEAzwK/BIckJQe7foEC9RqnB49nXQAYTwUBI27HBoY7oQH+UnEDG
+JLzB2Sr2QGxSqUC7L5fBWW3MQBU+vkCVkZ/BSVXrQFDWQEBSxZ7BHvleQOg1ZkD3kqfBNU0vQKeV
+lEA6/o3BB+gFQF5kgkD7A5rBYj+FQIwGTb+XkZjB
+
+>  <OMEGA_E>  (10) 
+4CNQPmQpIT8=
+
+>  <OMEGA_NBR>  (10) 
+    131850
+
+$$$$
+50529672
+     RDKit          3D
+
+ 47 50  0  0  1  0  0  0  0  0999 V2000
+    5.9282   -0.8889  -21.7835 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6009   -0.0253  -22.6577 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9192    1.0387  -20.6737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1857   -4.0710  -17.5919 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5643   -3.4924  -18.0539 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6163    1.9345  -21.5241 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0800   -0.3527  -20.7964 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4446    1.3688  -22.5432 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8068   -3.0447  -18.4895 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9351   -4.5251  -17.1531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3997    4.1402  -19.1474 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8030   -2.2558  -19.2344 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2810    4.7886  -22.3284 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9822    5.0084  -23.1006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6770    5.3446  -19.9863 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8076    4.1919  -21.0065 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4379    3.4771  -21.3635 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3985   -5.0035  -16.7170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4986   -2.7759  -18.6989 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2463   -4.7907  -16.9390 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2932    3.7757  -20.4107 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2736    4.1248  -18.3378 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3267   -1.1723  -19.9690 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0029   -2.4986  -19.1386 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0595    3.9769  -22.6782 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0018   -5.2918  -16.4691 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0749    2.1262  -23.4601 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8908    4.7444  -18.4870 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0593   -1.9577  -21.8663 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2436   -0.4319  -23.4245 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2538    1.4318  -19.9194 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2324   -4.2804  -17.4274 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5187   -3.2807  -18.2222 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9427    4.0900  -22.8614 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8080    5.7402  -22.1648 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5695    6.0018  -22.8707 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1676    4.9298  -24.1820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6774    5.7326  -19.7439 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0669    6.1499  -20.4213 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5291    3.4453  -20.6432 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0245   -5.6789  -16.1154 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6128   -3.9608  -16.4396 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6199   -5.1519  -17.7842 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3671    3.6871  -20.7775 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3302    4.4565  -17.3961 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4051    3.7819  -18.6957 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3511   -0.9663  -19.8928 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  7  1  0
+  2  8  1  0
+  3  6  1  0
+  3  7  2  0
+  4  9  2  0
+  4 20  1  0
+  5 10  1  0
+  5 19  2  0
+  6  8  2  0
+ 17  6  1  6
+  7 23  1  0
+  8 27  1  0
+  9 12  1  0
+  9 19  1  0
+ 10 20  2  0
+ 10 26  1  0
+ 11 21  2  0
+ 11 22  1  0
+ 11 28  1  0
+ 12 23  1  0
+ 12 24  2  0
+ 13 14  1  0
+ 13 16  1  0
+ 14 25  1  0
+ 15 16  1  0
+ 15 28  1  0
+ 16 17  1  0
+ 17 21  1  0
+ 17 25  1  0
+ 18 26  1  0
+  1 29  1  0
+  2 30  1  0
+  3 31  1  0
+  4 32  1  0
+  5 33  1  0
+ 13 34  1  0
+ 13 35  1  0
+ 14 36  1  0
+ 14 37  1  0
+ 15 38  1  0
+ 15 39  1  0
+ 16 40  1  1
+ 18 41  1  0
+ 18 42  1  0
+ 18 43  1  0
+ 21 44  1  0
+ 22 45  1  0
+ 22 46  1  0
+ 23 47  1  0
+M  CHG  1  21   1
+M  END
+>  <OMEGA_C>  (11) 
+kLO9QGSQY7+TRK7BiTrTQHAgz7wCQ7XBeGqdQKryhD/GY6XBqPGFQFpFgsAcvIzB1jrIP92CX8Bn
+bpDB17izQGSc9z9lMazBtY+iQJaRtL75XqbBeTrOQJg1rz+HWLTBaaJzQI3cQsB/6pPBLrL3P8zN
+kMCQOYnBSMqMQK98hEDwLZnB9rGZQBpfEMAI4JnBLv7oQB48mUCZoLLBPW6/QDFFoEAGzrjBPqrV
+QMoGq0D+45/Bm9fZQFQkhkBcDajBSgOuQKGIXkBx6KrBAgnMvrYcoMB0vIXBXukfQCyoMcBKl5XB
++8NPQCpNmcAZg4fB32GJQI2kcUAvSaPBM4JRQAj+g0C3s5LBD3SKQFoOlr96wJ/BxxfAQEnoH8DC
+G5nBm+ehQN+FfkDxbLXB9TqAPxBWqcCrwIPBuWXiQG8UCEBDrrvBUYG8QCnSl0Bg5ZPBqOXBQPSW
++r8i7q7BksvnQBgh3b5wZbvBeB+IQHFGtz/dWp/B0W+nQE35iMBMa4vBdckEPwv3UcAax5HBASv+
+QAjhgkAe5LbBz9r5QMOvt0CHUbHBDTmyQNMOwEAb97bBKV3FQL/AnUC9dMHB36z1QIZxt0Bq853B
+CCTCQLrLxEDrXqPB++3wQLB/XEBPJaXBGCSDv5y5tcBk7IDBVOAcv39+fcBghIPBzLEev4vcpMAe
+Ro7Bnn5XQJv5a0BLOKbBIyJVQMqbjkAwK4vBmOwZQO4JckDCkJXBRXhWQLxfd79cJJ/B
+
+>  <OMEGA_E>  (11) 
+ZhEqPw==
+
+>  <OMEGA_NBR>  (11) 
+    132946
+
+$$$$
